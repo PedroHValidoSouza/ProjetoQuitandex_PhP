@@ -15,7 +15,9 @@
 ***[@P-devgamer](https://github.com/P-devgamer)*** - Facilitador Técnico
 > Responsável pela implementação do protótipo inicial do software, atualização
 > do banco de Dados e publicação do projeto na plataforma GitHub.
-** Ex-Memnbros:
+
+** Ex-Membros: **
+
 ***[@JoaoVictorGol](https://github.com/JoaoVictorGol)*** - Ex-Líder do Setor Técnico
 > Responsável principal pela excelência técnica, envolvido nos processos de arquitetura,\
 > desenvolvimento, manutenção e aprimoramento do software nos primeiros semestres de vida do projeto.
